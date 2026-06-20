@@ -1,0 +1,31 @@
+{
+  "source": "https://www.offmenu.design/",
+  "hostname": "www.offmenu.design",
+  "capturedAt": "2026-06-19T21:34:00.011Z",
+  "routes": [
+    "/",
+    "/approach",
+    "/blog",
+    "/pricing",
+    "/services",
+    "/terms",
+    "/work/controltower",
+    "/work/ditto",
+    "/work/flex",
+    "/work/hanover-park",
+    "/work/resonant",
+    "/work/super",
+    "/work/tenacity",
+    "/work/utility"
+  ],
+  "filesSaved": 203,
+  "bytesSaved": 67947255,
+  "exhaustive": true,
+  "audit": {
+    "referenced": 171,
+    "present": 171,
+    "missing": [],
+    "external": [],
+    "backfilled": 14
+  }
+}

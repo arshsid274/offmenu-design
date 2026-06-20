@@ -1,0 +1,15 @@
+import styles from "./AiNativeStudioBuildingBrandsAndWeb.module.css";
+
+/**
+ * Harvested section "AI-native studio building brands and web" — pixel-port (computed styles).
+ * Faithful layout/color/type captured from the live render. Hover/pseudo
+ * states and JS animations are NOT captured.
+ */
+export default function AiNativeStudioBuildingBrandsAndWeb() {
+  return (
+    <div
+      className={styles.root}
+      dangerouslySetInnerHTML={{ __html: "<div class=\"absolute inset-0 flex items-center justify-center pointer-events-none z-0\" data-h=\"0\"><h1 class=\"text-xs sm:text-sm md:text-base font-medium max-w-[30ch] text-center leading-tight text-pretty text-foreground pointer-events-auto\" data-h=\"1\"><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"2\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"3\">AI-native&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"4\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"5\">studio&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"6\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"7\">building&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"8\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"9\">brands&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"10\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"11\">and&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"12\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"13\">web&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"14\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"15\">experiences&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"16\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"17\">for&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"18\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"19\">high-growth&nbsp;</span></span><span class=\"inline-block overflow-hidden py-[0.15em] -my-[0.15em]\" data-h=\"20\"><span class=\"inline-block\" style=\"transform: translate(0px, 0px); translate: none; rotate: none; scale: none;\" data-h=\"21\">startups&nbsp;</span></span></h1></div>" }}
+    />
+  );
+}
